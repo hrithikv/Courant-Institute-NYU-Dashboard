@@ -13,7 +13,7 @@ cube('Products', {
         sql: `${CUBE}.company = 'GDE'`
       },
       brandPawan:{
-        sql: `${CUBE}.brand = 'Pawan'`
+        sql: `${CUBE}.brand = 'Hrithik'`
       },
     },
     
